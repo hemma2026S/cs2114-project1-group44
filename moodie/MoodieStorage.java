@@ -1,12 +1,12 @@
 package moodie;
 // -------------------------------------------------------------------------
 /**
- *  Main class that runs the program and interacts with the user
+ *  Storage class for moodie program 
  * 
- *  @author Team 4
- *  @version Sep 15, 2026
+ *  @author Mikey
+ *  @version Sep 18, 2026
  */
-public class MoodieApp
+public class MoodieStorage
 {
     //~ Fields ................................................................
 
