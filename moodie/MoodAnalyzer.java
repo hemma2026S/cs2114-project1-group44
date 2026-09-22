@@ -1,9 +1,7 @@
 package moodie;
 // -------------------------------------------------------------------------
 /**
- *  Write a one-sentence summary of your class here.
- *  Follow it with additional details about its purpose, what abstraction
- *  it represents, and how to use it.
+ *  Gives a weekly average calculated from the sum of mood entries
  * 
  *  @author Seth
  *  @version Sep 18, 2026
