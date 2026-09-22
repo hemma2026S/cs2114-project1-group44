@@ -5,7 +5,7 @@ package moodie;
  *  Follow it with additional details about its purpose, what abstraction
  *  it represents, and how to use it.
  * 
- *  @author Emma
+ *  @author Emma Hartman
  *  @version Sep 18, 2026
  */
 public class MoodMessage {
