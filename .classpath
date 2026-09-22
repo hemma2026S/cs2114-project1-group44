@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path=""/>
 	<classpathentry kind="lib" path="/CS2DataStructuresLib"/>
 	<classpathentry kind="lib" path="/CS2GraphWindowLib"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/CS2-Support"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
